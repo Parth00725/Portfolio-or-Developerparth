@@ -1,0 +1,119 @@
+html {
+  height: 100%;
+  width: 100%;
+  /*background-image: url("https://dpuk71x9wlmkf.cloudfront.net/assets/2018/07/18151605/CV-TEMPLATES-FINAL-JULY-01.png";*/
+  
+}
+
+/* Global styles */
+
+body {
+ font-family: Arial, sans-serif;
+ margin: 0;
+ padding: 0;
+ background-image: url("https://dpuk71x9wlmkf.cloudfront.net/assets/2018/07/18151605/CV-TEMPLATES-FINAL-JULY-01.png");
+ 
+
+}
+
+header {
+ background-color: #333;
+ color: white;
+ padding: 20px;
+}
+
+h1 {
+ margin: 0;
+}
+
+nav ul {
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+}
+
+nav li {
+ display: inline-block;
+ margin-right: 20px;
+}
+
+nav li:last-child {
+ margin-right: 0;
+}
+
+nav a {
+ color: white;
+ text-decoration: none;
+}
+
+nav a:hover {
+ text-decoration: underline;
+}
+
+section {
+ padding: 50px;
+}
+
+h2 {
+ margin-top: 0;
+}
+
+ul {
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+}
+
+li {
+ margin-bottom: 10px;
+}
+
+a {
+ color: #333;
+ text-decoration: none;
+}
+
+a:hover {
+ text-decoration: underline;
+}
+
+form label {
+ display: block;
+ margin-bottom: 10px;
+}
+
+form input,
+form textarea {
+ padding: 10px;
+ margin-bottom: 20px;
+ border-radius: 5px;
+ border: none;
+}
+
+form input[type="submit"] {
+ background-color: #333;
+ color: white;
+ padding: 10px 20px;
+ border-radius: 5px;
+ border: none;
+ cursor: pointer;
+}
+
+form input[type="submit"]:hover {
+ background-color: #111;
+}
+
+footer {
+ background-color: #333;
+ color: white;
+ padding: 20px;
+ text-align: center;
+}
+ hr {
+   color: #854646;
+   height:20px;
+   display: flex;
+   ;
+   
+   }
+   
